@@ -1,2 +1,2 @@
 # instagram-backend
-backend for instagram
+backend for instagram clone app
